@@ -1,9 +1,9 @@
 const mf = require('mineflayer');
 
 const bot = mf.createBot({
-    host: 'localhost',
-    port: '57801',
-    version: '1.18.2',
+    host: 'Vlad_98985-x7t9.aternos.me',
+    port: '31679',
+    version: '1.20.1',
     username: 'jsbot'
 });
 
